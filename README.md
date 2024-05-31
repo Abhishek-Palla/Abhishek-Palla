@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Abhishek-Palla
-- 👀 I’m interested in FullStack
-- 🌱 I’m currently concepts on FullStack
-- 📫 How to reach me +19409770736 or pallaa15@gmail.com 
+- 📫 How to reach me +19409770736 or pallaabhishekhs@gmail.com 
 
 <!---
 Abhishek-Palla/Abhishek-Palla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
